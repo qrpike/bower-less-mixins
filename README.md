@@ -4,7 +4,7 @@ bower-less-mixins
 Less mixins for bower. 
 
 
-.gradient(#F5F5F5, #EEE, #FFF); Gradient background. First color is the background color to use for browsers that don't support gradients. The second two colors are the start and stop colors, going from bottom to top.
+`.gradient(#F5F5F5, #EEE, #FFF);` Gradient background. First color is the background color to use for browsers that don't support gradients. The second two colors are the start and stop colors, going from bottom to top.
 
 
 .bw-gradient(#EEE, 230, 255); Greyscale gradient background. Three values to set here. First one provides a color to use as a background for older browsers that don't support gradient backgrounds. Second and third values are the start and end brightness which goes from 0 to 255.
