@@ -3,6 +3,8 @@ bower-less-mixins
 
 Less mixins for bower. 
 
+    This is pulled from http://lesselements.com for use with bower.
+
 
 `.gradient(#F5F5F5, #EEE, #FFF);` Gradient background. First color is the background color to use for browsers that don't support gradients. The second two colors are the start and stop colors, going from bottom to top.
 
