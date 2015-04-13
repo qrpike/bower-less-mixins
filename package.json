@@ -1,0 +1,23 @@
+{
+  "name": "less-mixins",
+  "version": "1.0.0",
+  "description": "bower-less-mixins =================",
+  "main": "mixins.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qrpike/bower-less-mixins.git"
+  },
+  "keywords": [
+    "less",
+    "mixins"
+  ],
+  "author": "Quinton Pike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qrpike/bower-less-mixins/issues"
+  },
+  "homepage": "https://github.com/qrpike/bower-less-mixins"
+}
